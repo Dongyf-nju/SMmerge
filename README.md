@@ -31,7 +31,7 @@ The following Python packages are required to execute the code:
 - **Visualization**:  
   - Comprehensive model evaluation: `ModelPreformanceEvaluation.ipynb`  
   - Drought case analysis: `DroughtCaseAnalysis.ipynb`  
-  - Fused Data Sample Visualization: `draw_SM_sample_show.ipynb`
+  - Fused data sample visualization: `draw_SM_sample_show.ipynb`
 ---
 
 ### 4. Citation  
